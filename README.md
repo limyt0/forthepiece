@@ -40,10 +40,42 @@ Unity를 활용한 Oculus VR게임.
  
  오른쪽 trigger: 총발사
  
+ 오른쪽 grip: 무기 전환
+ 
+ 오른쪽 B: 상호작용
+ 
 
 ## 무기 전환
 
 ![image](https://user-images.githubusercontent.com/80087763/151394599-e8a11e92-b12c-4add-9ae5-2844044b6d5c.png)
+
+(수류탄도 있으나 effect만 있고 아무런 효과도 없음.)
+
+## 메인 선택창
+
+![image](https://user-images.githubusercontent.com/80087763/151396395-9a7c3ea3-0b1b-4389-bccc-48addc6ed3f7.png)
+
+Continue: 마지막까지 플레이한 stage에서 이어서 할수 있습니다.
+New Game: 처음부터 시작합니다.
+Settings: 환경설정
+Quit: 나가기
+
+## 특징
+
+![image](https://user-images.githubusercontent.com/80087763/151397300-ab4a14fe-0532-42db-8750-e6ba23f17eac.png)
+
+좀비에게 공격 받으면 붉은 테두리가 생깁니다.
+
+![image](https://user-images.githubusercontent.com/80087763/151398136-ae326af8-e568-4111-94ea-82a46cd79e63.png)
+
+좀비에게 너무 많은 공격을 받으면 플레이어는 사망판정을 받습니다.
+플레이어가 사망판정이 될 경우 화면 색상이 반전되며, 다시 해당stage 초반부터 시작합니다.
+
+![image](https://user-images.githubusercontent.com/80087763/151397647-00c88405-bcfe-4426-b1a2-4cc1634b02b9.png)
+![image](https://user-images.githubusercontent.com/80087763/151397949-55d76550-e156-40c2-8d6d-64977dfb1747.png)
+
+NPC와 대화 상호작용을 할 수 있습니다.
+
 
 
 ## 게임의 흐름 (게임 스포일러 포함)
