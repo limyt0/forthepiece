@@ -1,5 +1,3 @@
-(소스 Assets/script 코드 위주로 참고해주세요. 용량이 커서 모든 파일을 올리지 않았습니다.)
-
 # forthepiece
 
 1인칭 3D 좀비 VR FPS게임.
